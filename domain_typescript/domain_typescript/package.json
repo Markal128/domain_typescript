@@ -1,0 +1,10 @@
+{
+  "name": "domain_typescript",
+  "version": "0.0.0",
+  "description": "domain_typescript",
+  "main": "app.js",
+  "author": {
+    "name": "qiudeng",
+    "email": ""
+  }
+}
